@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author miles
+ *
+ */
+module assign1 {
+	System.out.println("Hello")
+}
